@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WidgetAI</string>
+    <string name="widget_description">WidgetAI device information widget</string>
+</resources>
